@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Privacy policy
+    url: https://github.com/Soloit-Technologies/doubleentry-app/blob/main/PRIVACY.md
+    about: What DoubleEntry does with your data (nothing leaves your device).
