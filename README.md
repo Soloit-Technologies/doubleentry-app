@@ -20,4 +20,4 @@ This repository is where DoubleEntry gets support. It holds no source code.
 
 ## Privacy
 
-DoubleEntry doesn't collect any data. Read the [privacy policy](PRIVACY.md).
+Without cloud backup, nothing leaves your device. Optional cloud backup stores your account and ledger in the EU. Read the [privacy policy](PRIVACY.md).
